@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20103\\Downloads\\Talabat.APIs-master\\Talabat.APIs-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4755BE-D5B7-4BC9-AB22-51C9B03D9D81}|Talabat.APIs\\Project Api.APIs.csproj|c:\\users\\20103\\downloads\\talabat.apis-master\\talabat.apis-master\\talabat.apis\\projectapi.apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FD4755BE-D5B7-4BC9-AB22-51C9B03D9D81}|Talabat.APIs\\Project Api.APIs.csproj|solutionrelative:talabat.apis\\projectapi.apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectApi.APIs.http",
+              "DocumentMoniker": "C:\\Users\\20103\\Downloads\\Talabat.APIs-master\\Talabat.APIs-master\\Talabat.APIs\\ProjectApi.APIs.http",
+              "RelativeDocumentMoniker": "Talabat.APIs\\ProjectApi.APIs.http",
+              "ToolTip": "C:\\Users\\20103\\Downloads\\Talabat.APIs-master\\Talabat.APIs-master\\Talabat.APIs\\ProjectApi.APIs.http",
+              "RelativeToolTip": "Talabat.APIs\\ProjectApi.APIs.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-25T15:53:36.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
